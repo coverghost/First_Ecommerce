@@ -1,0 +1,20 @@
+.navbar-list{
+    /* background-color: red; */
+    margin: 1px 0px 0px 0px;
+    text-align: center;
+}
+.navbar-list a{
+     text-decoration: none;
+     color: black;
+     padding: 50px;
+     text-align: center;
+     font-weight: 700;
+     font-size: 120%;
+}
+.navbar-list a:hover{
+    color: rgb(255, 0, 0);
+    padding: 50px;
+    text-align: center;
+    font-weight: 900;
+    font-size: 120%;
+}
